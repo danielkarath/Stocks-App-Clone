@@ -1,0 +1,28 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - FloatingPanel (2.4.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+
+DEPENDENCIES:
+  - Charts
+  - FloatingPanel
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - FloatingPanel
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  FloatingPanel: fa60183672ed86313b9e241e34465e82211260e8
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+
+PODFILE CHECKSUM: 34a059a9784d2291b0251ef0956617ee69f42561
+
+COCOAPODS: 1.10.1
